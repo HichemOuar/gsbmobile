@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GSBapp</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="gsb_mobile">GSB Mobile</string>
+    <string name="email">email</string>
+    <string name="gsb_prat">Liste des Praticiens</string>
+    <string name="gsb_prod">Produits</string>
+    <string name="gsb_rap">Rapports</string>
+</resources>
